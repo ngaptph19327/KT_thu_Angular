@@ -1,0 +1,40 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "Hoa Anh Dao",
+      "price": 200000,
+      "image": "https://phunugioi.com/wp-content/uploads/2022/06/Hinh-ve-hoa-Anh-Dao-cach-ve-hoa-Anh-Dao.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Hoa Anh Dao",
+      "price": 200000,
+      "image": "https://phunugioi.com/wp-content/uploads/2022/06/Hinh-ve-hoa-Anh-Dao-cach-ve-hoa-Anh-Dao.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Hoa Anh Dao",
+      "price": 200000,
+      "image": "https://phunugioi.com/wp-content/uploads/2022/06/Hinh-ve-hoa-Anh-Dao-cach-ve-hoa-Anh-Dao.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Hoa Anh Dao",
+      "price": 200000,
+      "image": "https://phunugioi.com/wp-content/uploads/2022/06/Hinh-ve-hoa-Anh-Dao-cach-ve-hoa-Anh-Dao.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Hoa Anh Dao",
+      "price": 200000,
+      "image": "https://phunugioi.com/wp-content/uploads/2022/06/Hinh-ve-hoa-Anh-Dao-cach-ve-hoa-Anh-Dao.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Hoa Anh Dao",
+      "price": 200000,
+      "image": "https://phunugioi.com/wp-content/uploads/2022/06/Hinh-ve-hoa-Anh-Dao-cach-ve-hoa-Anh-Dao.jpg"
+    }
+  ]
+}
